@@ -1,4 +1,4 @@
-<img src="https://elice-team17.s3.ap-northeast-2.amazonaws.com/test/logo_team17.png" alt="Logo" /><br>
+HEA17H Service
 ---
 #### 식단에 대한 칼로리 및 3대 영양소를 계산해주고,<br> 자신의 식단을 등록해 전문가의 솔루션을 받을 수 있는 서비스입니다. 
 <br>
@@ -12,7 +12,6 @@
 - 다이어트를 계획중인 유저라면 사용 가능하며, 인터넷 서핑이 귀찮은 사람이라도 손쉽게 식단 관리를 할 수 있습니다.
 - 남녀노소 사용할 수 있는 간단한 서비스를 만들고자 하였습니다.
 
-<br>
 
 ### 🥕 프로젝트만의 차별점
 
@@ -21,7 +20,6 @@
 - 영양학적 솔루션은 전문가들의 도움을 받아 식단을 더욱 개선해 나만의 맞춤 건강식단을 제공합니다.
 - 목표 고객층이 특정되어 있지 않습니다.
 
-<br>
 
 ### 🥕 서비스 메인 / 서브 기능
 
@@ -33,47 +31,35 @@
   - 전문가 자격증 이미지 등록 기능
   - 전문가 코멘트 추가, 수정, 삭제 기능
 
-<br>
 
 - **서브 기능**
   - OAuth 로그인 기능
   - 코멘트 확인 시 전문가의 자격증 이미지 확인 기능
 
-<br> 
 
 ### 🥕 시스템 아키텍쳐
 
 <img src="https://elice-team17.s3.ap-northeast-2.amazonaws.com/test/system+architecture.png" alt="System Architecture" /><br>
 
-### 🥕 유저 시나리오
-
-<img src="https://elice-team17.s3.ap-northeast-2.amazonaws.com/test/flowchart.png" alt="Flow Chart" /><br>
-
-### 🥕 프로젝트 구성
-
-- 사용 스택
-  - 프론트엔드
-    - React, React-Bootstrap
-    - Styled component
-    - Redux
-  - 백엔드
+### 🥕 프로젝트 사용 스택
+ - 프론트엔드
+   - React, React-Bootstrap
+   - Styled component
+   - Redux
+ - 백엔드
     - Express, Node
     - Mongoose, multer, AWS S3
     - Babel
-  - 인프라
+ - 인프라
     - Google Cloud Platform, Docker
-  - 컨벤션
+ - 컨벤션
     - eslint(Airbnb), prettier
 
 
 
-<br>
-
 ### 🥕 프로젝트 자료
-- [데일리 스크럼](https://working-lunge-260.notion.site/8435015d087f421b9941b525fa102dd9)
 - [최종 발표 PPT](https://docs.google.com/presentation/d/1_X8iHxnb_eN-TJPrqon1h_iyMeZyavbM21w7E3-WXwk/edit?usp=sharing)
 
-<br>
 
 ### 🥕 팀원 소개
 
