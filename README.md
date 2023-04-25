@@ -11,8 +11,6 @@
 - 다이어트를 계획중인 유저라면 사용 가능하며, 인터넷 서핑이 귀찮은 사람이라도 손쉽게 식단 관리를 할 수 있습니다.
 - 남녀노소 사용할 수 있는 간단한 서비스를 만들고자 하였습니다.
 
-<br>
-
 ### 🥕 프로젝트만의 차별점
 
 - 나만의 맞춤 식단을 그램 단위로 계산 가능합니다.
@@ -20,22 +18,19 @@
 - 영양학적 솔루션은 전문가들의 도움을 받아 식단을 더욱 개선해 나만의 맞춤 건강식단을 제공합니다.
 - 목표 고객층이 특정되어 있지 않습니다.
 
-<br>
+### 🥕 서비스 핵심 기능
 
-### 🥕 서비스 메인 / 서브 기능
+- 검색창을 통한 음식 검색 기능
+- 로그인 시 나의 식단 저장, 검색, 삭제 기능
+- 사용자 정보 수정, 탈퇴 기능
+- 사용자 상세 정보 입력 시 BMI / RDI 자동 계산 기능
+- 전문가 자격증 이미지 등록 기능
+- 전문가 코멘트 추가, 수정, 삭제 기능
 
-- **메인 기능**
-  - 검색창을 통한 음식 검색 기능
-  - 로그인 시 나의 식단 저장, 검색, 삭제 기능
-  - 사용자 정보 수정, 탈퇴 기능
-  - 사용자 상세 정보 입력 시 BMI / RDI 자동 계산 기능
-  - 전문가 자격증 이미지 등록 기능
-  - 전문가 코멘트 추가, 수정, 삭제 기능
+### 🥕 서비스 추가 기능
 
-
-- **서브 기능**
-  - OAuth 로그인 기능
-  - 코멘트 확인 시 전문가의 자격증 이미지 확인 기능
+- OAuth 로그인 기능
+- 코멘트 확인 시 전문가의 자격증 이미지 확인 기능
 
 <br>
 
@@ -55,28 +50,35 @@
 
 ### 🥕 프로젝트 사용 스택
 
-Frontend
+#### FrontEnd
+
 <p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
 </p>
-Backend
+
+#### BackEnd
+
 <p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-Tools
+
+#### Tools
+
 <p>
   <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
-Convention
+
+#### Convention
+
 <p>
   <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=black"/>
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"/>
